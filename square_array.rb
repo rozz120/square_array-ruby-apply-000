@@ -6,5 +6,5 @@ def square_array(array)
   number*number
   squaredArray.push number
   return squaredArray
-  
+end
 end
