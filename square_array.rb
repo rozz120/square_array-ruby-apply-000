@@ -5,6 +5,7 @@ def square_array(array)
   array.each do  |number| 
   squaredNumber = number*number
   squaredArray.push(squaredNumber)
-  return squaredArray
-end
+  
+  end
+return squaredArray
 end
