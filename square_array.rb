@@ -9,3 +9,12 @@ def square_array(array)
   end
 return squaredArray
 end
+
+
+
+
+def advancedExample(array)
+  
+  array.collect { |number| number*number}
+
+end
